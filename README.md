@@ -4,7 +4,9 @@ This project is a streamlined chat analyzer designed to work with both WhatsApp 
 
 - WhatsApp Chat Analysis for `.txt` files
 - Telegram Chat Analysis for `.json` files
-  
+
+Check out the live demo [here](https://chat-analyser-whatsapp-telegram.streamlit.app/) to see the chat analyzer in action!
+
 ---
 
 ## Key Features
